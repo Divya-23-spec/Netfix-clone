@@ -165,6 +165,8 @@
     width:50%;
         height:50%;
     color: #fff;
+        overflow-X:hidden;
+        overflow-Y: hidden;
 
 }
 

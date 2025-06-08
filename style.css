@@ -469,5 +469,35 @@ body{
     .firstrow{
         padding-top: 60px;
     }
+  .navbar{
+      display:flex;
+
+      justify-content:space-between;
+  }   
+.navbar-nav{
+
+    display:flex;
+    gap:10px;
+}
+.nav-link{
+    color:#e5e5e5;
+    text-decoration: none;
+    font-size: 10px;
+    transition: color 0.3s;
+}
+.nav-link:hover{
+    color:#b3b3b3;
+}
+.navbar-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:10px;
+    margin-left:25px;
+}
+.navbar-right i{
+    font-size: 15px;
+    cursor: pointer;
+}
     
  }

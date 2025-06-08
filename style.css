@@ -33,7 +33,7 @@ body{
 .logo{
     height: 60px;
     cursor:pointer;
-    margin-left: -10px;
+    margin-left: 10px;
 }
 .navbar-nav{
 

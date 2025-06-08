@@ -515,5 +515,9 @@ body{
     cursor: pointer;
   
 }
+ .logo1,.logo2,.logo3,.logo4{
+    font-size: 20px;
+    gap:10px;
+ }
     
  }

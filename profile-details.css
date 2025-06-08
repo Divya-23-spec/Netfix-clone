@@ -170,5 +170,17 @@
         overflow-Y: hidden;
 
 }
+.profile-details-page{
+    background-color: #141414;
+    min-height: 20vh;
+    color: #fff;
+
+}
+.profile-details-container{
+    min-width: 10px;
+    margin: 0 auto;
+    padding: 40px 20px;
+
+}
 
 }

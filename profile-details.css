@@ -121,8 +121,8 @@
 }
 @media(max-width: 768px){
     body{
-        overflow-x:hidden;
-        overflow-y:hidden;
+        overflow-X:hidden;
+        overflow-Y:hidden;
     }
     .profile-header{
        display: flex;

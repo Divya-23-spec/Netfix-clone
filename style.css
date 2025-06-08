@@ -28,7 +28,7 @@ body{
 }
 .navbar{
     background-color: #141414;
-    overflow: scroll;
+    overflow: hidden;
     
 }
 .logo{

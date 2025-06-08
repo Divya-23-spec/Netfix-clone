@@ -419,7 +419,10 @@ body{
         padding: 0 3%;
 
     }
-  
+  body{
+      overflow-x:hidden;
+      overflow-y:hidden;
+  }
     .logos{
         display: flex;
         justify-content: center;
@@ -439,26 +442,7 @@ body{
     .firstrow{
         padding-top: 100px;
     }
-    .navbar-nav{
-
-    display:flex;
-    gap:5px;
-}
-.nav-link{
-    color:#e5e5e5;
-    text-decoration: none;
-    font-size: 14px;
-    transition: color 0.3s;
-}
-.nav-link:hover{
-    color:#b3b3b3;
-}
-.navbar-right{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap:5px;
-}
+    
  }
  @media (max-width:760px){
     .container{
@@ -488,24 +472,5 @@ body{
     .firstrow{
         padding-top: 60px;
     }
-    .navbar-nav{
-
-    display:flex;
-    gap:10px;
-}
-.nav-link{
-    color:#e5e5e5;
-    text-decoration: none;
-    font-size: 14px;
-    transition: color 0.3s;
-}
-.nav-link:hover{
-    color:#b3b3b3;
-}
-.navbar-right{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap:10px;
-}
+    
  }

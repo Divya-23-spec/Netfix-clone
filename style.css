@@ -419,10 +419,7 @@ body{
         padding: 0 3%;
 
     }
-  body{
-      overflow-x:hidden;
-      overflow-y:hidden;
-  }
+
     .logos{
         display: flex;
         justify-content: center;

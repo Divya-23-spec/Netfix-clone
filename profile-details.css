@@ -120,7 +120,10 @@
 
 }
 @media(max-width: 768px){
-    
+    body{
+        overflow-x:hidden;
+        overflow-y:hidden;
+    }
     .profile-header{
        display: flex;
        flex-direction: row;

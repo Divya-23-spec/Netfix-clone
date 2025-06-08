@@ -70,10 +70,11 @@ body{
 /*hero-section*/
 .hero{
     height:150vh;
+    width:auto;
     background:
      linear-gradient(to bottom,rgba(0,0,0,0.2) 0%, rgba(0, 0, 0, 0.9) 100%),
     url(2.png)  ;
-     background-size: contain;
+     background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
     display:flex;

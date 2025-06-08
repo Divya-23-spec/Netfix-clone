@@ -28,12 +28,13 @@ body{
 }
 .navbar{
     background-color: #141414;
+    overflow: scroll;
     
 }
 .logo{
     height: 60px;
     cursor:pointer;
-    margin-left: 10px;
+    margin-left: -70px
 }
 .navbar-nav{
 
